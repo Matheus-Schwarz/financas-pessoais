@@ -1,0 +1,6 @@
+1|lanche|comida|corrente itau1|toca do lanche|13.00|11/04/2022
+2|inicial corrente itau|inicial,financeiro|fundo|corrente itau1|76.00|11/04/2022
+3|inicial poupanca itau|inicial,financeiro|fundo|poupanca itau1|309.16|11/04/2022
+4investimento|financeiro,investimento|corrente bb1|bb rf lp high|300.00|01/06/2022
+5|telefone|essencial|corrente bb1|tim|43.99|09/07/2022
+6|luz|essencial|corrente bb1|joel|50.00|01/09/2022
